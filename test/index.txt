@@ -68,7 +68,7 @@ img {border:0;}
 <br>
 <a href="../../"><b>ホーム</b></a><VERSION>
 <address>
-<div align="right"><a href="http://script.s16.xrea.com" target="_blank"><small>鏡の国</small></a> + <a href="https://nanorobot114514.tk" target="_blank"><small>みくるの森</small></a></div>
+<div align="right"><a href="http://script.s16.xrea.com" target="_blank"><small>鏡の国</small></a> + <a href="https://cappuccino1204.ml" target="_blank"><small>Roi0410</small></a></div>
 </address>
 </body>
 </html>
